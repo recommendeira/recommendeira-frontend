@@ -1,2 +1,9 @@
 @import './base.css';
 
+.other {
+  background-color: blue;
+}
+
+.test {
+  background-color: salmon;
+}
